@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.ejlsistemas.frases_do_dia">
     <application
-        android:label="frases_do_dia"
+        android:label="Frases do Dia"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
